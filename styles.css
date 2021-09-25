@@ -1,0 +1,33 @@
+
+.container{
+    padding: 10%;
+    text-align: center;
+}
+
+/* #namaste{
+
+    margin: 20px;
+} */
+
+body{
+    background-color: #3D56B2;
+    color: #FFF;
+}
+
+button{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #FFB319;
+    color: #FFF;
+    font-size: 20px;
+}
+
+button:hover{
+    box-shadow: 0 0 20px 2px #FFE194;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-evenly;
+}
